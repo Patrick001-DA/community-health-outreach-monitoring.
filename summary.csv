@@ -1,0 +1,6 @@
+county,target_attendance,actual_attendance,people_referred,followups_completed,attendance_rate_pct,followup_rate_pct
+Kajiado,205,180,34,26,87.8,76.5
+Kiambu,225,199,39,32,88.4,82.1
+Machakos,165,155,26,20,93.9,76.9
+Nairobi,250,254,46,41,101.6,89.1
+Nakuru,185,198,32,29,107.0,90.6
